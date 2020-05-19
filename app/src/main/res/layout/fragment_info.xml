@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragment.MarketInfo.InfoFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:text="음식 소개"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:text="생선은 머리부분도 맛있다고하잖아요~
+
+그럼 마트에서 손질안된 고등어 머리도 찌게나 구이할때 다 사용해도 괜찮은가요?
+
+구이는 몰라두 찌게는 쓴맛이나 비린내가 많이 나지 않을까요?"/>
+
+</FrameLayout>
