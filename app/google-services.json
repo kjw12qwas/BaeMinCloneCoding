@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "349554893213",
+    "firebase_url": "https://baeminclonecoding.firebaseio.com",
+    "project_id": "baeminclonecoding",
+    "storage_bucket": "baeminclonecoding.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349554893213:android:afd326090d76d2b54f0f74",
+        "android_client_info": {
+          "package_name": "com.example.baemin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349554893213-6m9veln4s3ghuh2srlkkkk0uhg7erhfs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.baemin",
+            "certificate_hash": "1f61c4a6d3007e004e4b26acf9ef15d3103ceecb"
+          }
+        },
+        {
+          "client_id": "349554893213-p4cs1btvat9suc3po9943mk842frp3af.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDINzFedvlzC5P6KvJGccOzKIBbomeFwhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349554893213-p4cs1btvat9suc3po9943mk842frp3af.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

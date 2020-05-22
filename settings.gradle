@@ -1,3 +1,2 @@
 rootProject.name='BaeMin'
 include ':app'
-include ':practice03_rawfolder'
